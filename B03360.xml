@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The four wonders of this land, which unto you we will declare: the Lord's great mercy it is great; God give us grace to stand in fear, and watch and pray both night and day, that God may give us all his grace, to repent our sins then every one, our time is going on apace. Tune of Dear Love regard my grief, &amp;c. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03360</idno>
+            <idno type="STC">Wing F1675</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[118]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[174]</idno>
+            <idno type="EEBO-CITATION">99884215</idno>
+            <idno type="PROQUEST">ocm99884215</idno>
+            <idno type="VID">183350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183350)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[65]; A5:2[141])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The four wonders of this land, which unto you we will declare: the Lord's great mercy it is great; God give us grace to stand in fear, and watch and pray both night and day, that God may give us all his grace, to repent our sins then every one, our time is going on apace. Tune of Dear Love regard my grief, &amp;c. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden Ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Sweet England call for grace ..."</note>
+                  <note>Imperfect: trimmed affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="174" facs="tcp:183350:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <l>The FOUR WONDERS of this Land,</l>
+               <l>Which unto you we will declare:</l>
+               <l>The Lord's great Mercy it is great;</l>
+               <l>God give us Grace to ſtand in fear,</l>
+               <l>And watch and pray both Night and Day,</l>
+               <l>That God may give us all his Grace,</l>
+               <l>To repent our Sins then every one,</l>
+               <l>Our Time is going on apace.</l>
+            </head>
+            <opener>Tune of <hi>Dear Love regard my Grief,</hi> &amp;c.</opener>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>SWeet <hi>England</hi> call for Grace,</l>
+               <l>with ſpeed leave off thy Sin,</l>
+               <l>And with a contrite Heart</l>
+               <l>to Prayers now begin.</l>
+            </lg>
+            <lg>
+               <l>For ſure the time is come,</l>
+               <l>that Chriſt our Saviour told;</l>
+               <l>Towards the latter Day,</l>
+               <l>we Wonders ſhall behold.</l>
+            </lg>
+            <lg>
+               <l>And now ſtrange Wonders rare,</l>
+               <l>the Lord from Heaven doth ſend</l>
+               <l>In Earth, and in the Air,</l>
+               <l>becauſe we ſhould amend.</l>
+            </lg>
+            <lg>
+               <l>Great Lights within the Skie</l>
+               <l>hath oft been ſeen, we hear,</l>
+               <l>To many Peoples view,</l>
+               <l>in Countries far and near.</l>
+            </lg>
+            <lg>
+               <l>But what it doth preſage,</l>
+               <l>no Man on Earth do's know:</l>
+               <l>None but the living God</l>
+               <l>ſuch Wonders ſtrange can ſhow.</l>
+            </lg>
+            <lg>
+               <l>But to the Subject now,</l>
+               <l>which I do mean to write;</l>
+               <l>The ſtrangeſt News I'll tell,</l>
+               <l>which Time has brought to light.</l>
+            </lg>
+            <lg>
+               <l>IN <hi>London</hi> now doth live</l>
+               <l>one Mr. <hi>Clark</hi> by Name,</l>
+               <l>A Taylor by his Trade,</l>
+               <l>of good Report and Fame.</l>
+            </lg>
+            <lg>
+               <l>His Wife being with Child,</l>
+               <l>unto her Grief and Woe,</l>
+               <l>She with a Neighbour's Wife</l>
+               <l>fell out; the Truth is ſo.</l>
+            </lg>
+            <lg>
+               <l>And after many Words,</l>
+               <l>to fighting then they go,</l>
+               <l>This Woman being with Child,</l>
+               <l>received a grievous Blow</l>
+            </lg>
+            <lg>
+               <l>Vpon her Belly then,</l>
+               <l>(which makes my Heart to bleed)</l>
+               <l>That ſhe went home, and ſent</l>
+               <l>for Midwife's help, with ſpeed.</l>
+            </lg>
+            <lg>
+               <l>In haſt the Midwife came,</l>
+               <l>and other Women ſtore,</l>
+               <l>Which by the help of God,</l>
+               <l>ſhe Seven Children bore.</l>
+            </lg>
+            <lg>
+               <l>Seven dainty Boys ſhe had,</l>
+               <l>all which were born in ſight,</l>
+               <l>All fram'd with perfect Shape,</l>
+               <l>with Ioints and Limbs aright.</l>
+            </lg>
+            <lg>
+               <l>But they were all Still-born;</l>
+               <l>which griev'd their Parents ſore:</l>
+               <l>But of the Works of God,</l>
+               <l>in this they do deplore.</l>
+            </lg>
+            <lg>
+               <l>The Woman now doth mend,</l>
+               <l>whereby God's Works are known:</l>
+               <l>And now this wondrous News,</l>
+               <l>both far and near is ſhown.</l>
+            </lg>
+            <pb n="175" facs="tcp:183350:1"/>
+            <!-- PDF PAGE 19 -->
+            <lg>
+               <l>THe ſecond News I</l>
+               <l>comes from brave <hi>Yorkſhire.</hi>
+               </l>
+               <l>A Monſter there was born,</l>
+               <l>the like you ne'er did hear.</l>
+            </lg>
+            <lg>
+               <l>Three Miles from <hi>Pomfret</hi> lived</l>
+               <l>a Woman of great Worth,</l>
+               <l>In Travail fell, and brought</l>
+               <l>to light a monſtrous Birth:</l>
+            </lg>
+            <lg>
+               <l>Iuſt the ſhape of a Colt,</l>
+               <l>to all the Peoples ſight;</l>
+               <l>Which bred Amazement great,</l>
+               <l>with Tears and with Fright,</l>
+            </lg>
+            <lg>
+               <l>To ſee this Woman's Grief,</l>
+               <l>and Trouble of her Mind,</l>
+               <l>In bringing forth a Colt,</l>
+               <l>contrary unto kind.</l>
+            </lg>
+            <lg>
+               <l>Long Legs, round Feet, long Noſe,</l>
+               <l>and Headed like a Horſe,</l>
+               <l>Which fill'd theſe Womens Hearts</l>
+               <l>with Pity and Remorſe.</l>
+            </lg>
+            <lg>
+               <l>This Woman now doth mend,</l>
+               <l>whereby God's Works are known:</l>
+               <l>And now this wondrous News,</l>
+               <l>both far and near is ſhown.</l>
+            </lg>
+            <lg>
+               <l>ANd the third News moſt rare,</l>
+               <l>the which I have to tell,</l>
+               <l>
+                  <hi>London</hi> can witneſs true,</l>
+               <l>that there a Monſter fell.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Chriſt-Church</hi> Pariſh lived</l>
+               <l>a Woman known full well,</l>
+               <l>Of honeſt Carriage, which</l>
+               <l>her Neighbours all can tell.</l>
+            </lg>
+            <lg>
+               <l>This Woman being with Child,</l>
+               <l>which Grief and Sorrow bred,</l>
+               <l>Into the World ſhe bore</l>
+               <l>a Child without a Head.</l>
+            </lg>
+            <lg>
+               <l>The Face was in the Breaſt,</l>
+               <l>to all the Peoples view;</l>
+               <l>But it died ſuddenly:</l>
+               <l>this is approved true.</l>
+            </lg>
+            <lg>
+               <l>It is for certain true,</l>
+               <l>and is approved plain;</l>
+               <l>From Earth I ſay it came,</l>
+               <l>and to Earth it turn'd again.</l>
+            </lg>
+            <lg>
+               <l>Theſe Women now all three</l>
+               <l>are on the mending hand:</l>
+               <l>But Three ſuch monſtrous Births</l>
+               <l>was ne'er in fair <hi>England.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>THe Fourth News moſt rare,</l>
+               <l>the which I have to tell;</l>
+               <l>In famous <hi>Glouceſterſhire</hi>
+               </l>
+               <l>a wondrous Shower fell.</l>
+            </lg>
+            <lg>
+               <l>Not <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>  Town,</l>
+               <l>a <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is call'd <hi>Brandwood,</hi>
+               </l>
+               <l>Vpon a Hedge of Cloaths,</l>
+               <l>for truth, it rained Blood.</l>
+            </lg>
+            <lg>
+               <l>A Maid being ſtarching there,</l>
+               <l>as Reaſon doth require,</l>
+               <l>She went to fetch in Wood</l>
+               <l>wherewith to make a Fire:</l>
+            </lg>
+            <lg>
+               <l>And having on ſuch Cuffs,</l>
+               <l>as Starchers oft do uſe,</l>
+               <l>Vpon them fell ſome drops</l>
+               <l>of Blood, made her to muſe.</l>
+            </lg>
+            <lg>
+               <l>And holding up her Head,</l>
+               <l>which made her wonder more,</l>
+               <l>She ſaw the Hedge of Cloaths,</l>
+               <l>with Blood beſprinkl'd o'er.</l>
+            </lg>
+            <lg>
+               <l>Then ſhe throw'd down the Wood,</l>
+               <l>and with amazement great</l>
+               <l>She went into the Houſe,</l>
+               <l>and this News did repeat.</l>
+            </lg>
+            <lg>
+               <l>The People then came forth,</l>
+               <l>and found the News was true;</l>
+               <l>They ſaw the Hedge of Cloaths</l>
+               <l>with Blood beſprinkl'd to their view.</l>
+            </lg>
+            <lg>
+               <l>Then they took in the Cloaths,</l>
+               <l>and waſh'd them that ſame Day;</l>
+               <l>But Water, Leez, nor Soap,</l>
+               <l>could take the Blood away.</l>
+            </lg>
+            <lg>
+               <l>We are ſo wicked grown,</l>
+               <l>the Heavens do for us bleed,</l>
+               <l>And Wonders ſtrange are ſhown:</l>
+               <l>all this is true indeed.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sodom</hi> was warn'd afore,</l>
+               <l>ſo was <hi>Jeruſalem,</hi>
+               </l>
+               <l>And many Places more,</l>
+               <l>whom God did plague for Sin.</l>
+            </lg>
+            <lg>
+               <l>But we are like the <hi>Jews,</hi>
+               </l>
+               <l>our Hearts are now ſo hard,</l>
+               <l>That we will not believe,</l>
+               <l>nor yet God's Word regard.</l>
+            </lg>
+            <lg>
+               <l>Now, think upon each Sin,</l>
+               <l>Pride, Whoredom, Drunkenneſs,</l>
+               <l>Swearing, Deceit, and Lyes,</l>
+               <l>and vile Covetouſneſs.</l>
+            </lg>
+            <lg>
+               <l>Then we ſhall ſee our God</l>
+               <l>will take us for his own,</l>
+               <l>If we believe theſe Signs</l>
+               <l>and Tokens God hath ſhown.</l>
+            </lg>
+            <lg>
+               <l>Concluding thus my News:</l>
+               <l>The God of Truth and Peace</l>
+               <l>Grant that the Goſpel may</l>
+               <l>continually encreaſe.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
